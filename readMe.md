@@ -1,0 +1,1 @@
+Developing a dice roller, my goal is to have it be able to do a variety of dice, as well as eventaully apply modifiers and multiple dice at
